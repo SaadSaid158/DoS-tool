@@ -33,10 +33,6 @@ Denial-of-Service (DoS) attacks are a major cybersecurity threat. Understanding 
 git clone https://github.com/yourusername/saphyra.git
 cd saphyra
 
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ### Usage
 ```bash
 python DoS.py -u <target_url> -t <threads>
