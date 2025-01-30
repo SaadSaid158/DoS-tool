@@ -32,6 +32,7 @@ Denial-of-Service (DoS) attacks are a major cybersecurity threat. Understanding 
 # Clone the repository
 git clone https://github.com/yourusername/saphyra.git
 cd saphyra
+```
 
 ### Usage
 ```bash
